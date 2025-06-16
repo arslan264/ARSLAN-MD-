@@ -1,8 +1,8 @@
-<h1 align="center"> 𝐂𝐘𝐏𝐇𝐄𝐑 𝐗 </h1>
+<h1 align="center"> 𝘈𝘙𝘚𝘓𝘈𝘕-𝘌𝘋𝘐𝘛𝘖𝘙 </h1>
 
 <p align="center">
-  <a href="https://github.com/Dark-Xploit/CypherX">
-    <img alt="CypherX docs" height="350" src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg">
+  <a href="https://github.com/Dark-Xploit/Arslan">
+    <img alt="Arslan  docs" height="350" src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg">
   </a>
 </p>
     
@@ -23,7 +23,7 @@
 <p align="center">
     <strong>2. SESSION ID & DEPLOYMENTS</strong>
     <br>
-    <a href="https://www.cypherx.space/" target="_blank">
+    <a href="https://www.Arslan.space/" target="_blank">
         <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Go-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
     </a>
 </p>
